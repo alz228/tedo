@@ -1,0 +1,25 @@
+.infobox__list {
+    border: 0.5mm solid red;
+
+    border: none;
+    background: transparent;
+    border-radius: 2px;
+    height: 26px;
+    cursor: pointer;
+
+    font-size: 23px;
+    font-weight:lighter;
+    /* max-width: 600px; */
+    font-style: normal;
+
+    line-height: 20px;
+    color: #FFFFFF;
+
+    font-family: 'Inter', Arial, sans-serif;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.infobox__list:hover{
+    opacity: 0.6;
+}

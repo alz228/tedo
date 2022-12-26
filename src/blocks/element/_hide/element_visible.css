@@ -1,0 +1,5 @@
+.element_visible{
+    visibility: visible;
+    opacity: 1;
+    transition: visibility 0.3s, opacity 0.3s linear;
+}

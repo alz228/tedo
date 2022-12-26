@@ -1,0 +1,19 @@
+.element {
+    background-color: white;
+    border-radius: 10px 10px 10px 10px;
+    width: 400px;
+    margin: auto;
+    position: relative;
+    flex-direction: row;
+    display: flex;
+}
+
+@media screen and (max-width:450px){
+    .element{
+        width: 300px;
+        margin: auto;
+        max-height: 400px;
+        flex-direction: column;
+    }
+}
+

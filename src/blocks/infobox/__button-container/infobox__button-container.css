@@ -1,0 +1,19 @@
+.infobox__button-container{
+    display: flex;
+    align-self: flex-end;
+    flex-direction: row;
+    width: 70px;
+    height: 30px;
+    border: 0.3mm solid white;
+    border-radius: 2px;
+    justify-content: space-around;
+}
+
+@media screen and (max-width: 900px) {
+    .infobox__button-container {
+        align-self: center;
+        width: 120px;
+        margin-top: 10px;
+        
+    }
+}

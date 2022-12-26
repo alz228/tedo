@@ -1,0 +1,52 @@
+@import url("../vendor/normalize.css");
+@import url("../vendor/fonts/inter.css");
+@import url("../blocks/header/header.css");
+@import url("../blocks/header/__logo/header__logo.css");
+@import url("../blocks/page/page.css");
+
+
+@import url("../blocks/infobox/infobox.css");
+@import url("../blocks/infobox/__description/infobox__description.css");
+@import url("../blocks/infobox/__info/infobox__info.css");
+@import url("../blocks/infobox/__title/infobox__title.css");
+@import url("../blocks/infobox/__add-button/infobox__add-button.css");
+
+@import url("../blocks/infobox/__list/infobox__list.css");
+@import url("../blocks/infobox/__button-container/infobox__button-container.css");
+
+
+
+
+@import url("../blocks/elements/elements.css");
+@import url("../blocks/element/__image/element__image.css");
+
+
+@import url("../blocks/element/__title/element__title.css");
+@import url("../blocks/element/element.css");
+@import url("../blocks/element/__container/element__container.css");
+
+@import url("../blocks/element/__description/element__description.css"); 
+@import url("../blocks/element/_hide/element_hide.css");
+@import url("../blocks/element/_hide/element_visible.css");
+
+
+
+
+@import url("../blocks/footer/footer.css");
+@import url("../blocks/footer/__copyrighting/footer__copyrighting.css");
+
+
+
+
+
+@import url("../blocks/element/__delete/element__delete.css");
+
+
+
+
+
+
+
+
+
+  

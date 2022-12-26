@@ -1,0 +1,14 @@
+.element__description {
+    font-style:normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 22px;
+    color: #434040;
+    margin: 0;
+    padding: 0;
+    max-width: 190px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    font-family: 'Inter', Arial, sans-serif;
+}

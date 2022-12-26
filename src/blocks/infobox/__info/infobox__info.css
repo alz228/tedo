@@ -1,0 +1,16 @@
+.infobox__info {
+    max-width: 500px;
+}
+
+
+@media screen and (max-width:900px) {
+    .infobox__info {
+        max-width: 400px;
+    }
+}
+
+@media screen and (max-width:300px) {
+    .infobox__info {
+        max-width: 400px;
+    }
+}
